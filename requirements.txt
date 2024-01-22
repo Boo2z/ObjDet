@@ -11,3 +11,6 @@ cjm_pil_utils==0.0.6
 cjm_psl_utils==0.0.4
 cjm_pytorch_utils==0.0.6
 cjm_torchvision_tfms==0.0.5
+tqdm==4.66.1
+PIL=10.0.1
+matplotlib==3.8.2
