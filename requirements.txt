@@ -14,5 +14,5 @@ cjm_pytorch_utils==0.0.6
 cjm_torchvision_tfms==0.0.5
 tqdm==4.66.1
 matplotlib==3.8.2
-pyarrow=14.0.2
-fastparquet=2023.10.1
+pyarrow==14.0.2
+fastparquet==2023.10.1
