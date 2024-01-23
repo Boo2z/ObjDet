@@ -16,3 +16,4 @@ tqdm==4.66.1
 matplotlib==3.8.2
 pyarrow==14.0.2
 fastparquet==2023.10.1
+jupyterlab==4.0.10
